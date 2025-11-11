@@ -1,0 +1,4 @@
+#ifndef LSTSDDP_H_INCLUDED
+#define LSTSDDP_H_INCLUDED
+#include "LSTPHRASE.h"
+#endif // LSTSDDP_H_INCLUDED

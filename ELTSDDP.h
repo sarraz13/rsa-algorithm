@@ -1,0 +1,4 @@
+#ifndef ELTSDDP_H_INCLUDED
+#define ELTSDDP_H_INCLUDED
+#include "ELTPHRASE.h"
+#endif // ELTSDDP_H_INCLUDED

@@ -1,0 +1,4 @@
+#ifndef ELTSDDPC_H_INCLUDED
+#define ELTSDDPC_H_INCLUDED
+#include "ELTPCHIF.h"
+#endif // ELTSDDPC_H_INCLUDED

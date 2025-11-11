@@ -1,0 +1,4 @@
+#ifndef ELTSDDCL_H_INCLUDED
+#define ELTSDDCL_H_INCLUDED
+#include "ELTCLE.h"
+#endif // ELTSDDCL_H_INCLUDED

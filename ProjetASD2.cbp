@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="ProjetASD2" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/ProjetASD2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/ProjetASD2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="ELTCLE.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ELTCLE.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="ELTPCHIF.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ELTPCHIF.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="ELTPHRASE.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ELTPHRASE.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="ELTPRIMCL.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="ELTPRIMP.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="ELTPRIMPC.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="ELTSDDCL.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="ELTSDDP.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="ELTSDDPC.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="LSTPCHIF.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="LSTPCHIF.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="LSTPHRASE.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="LSTPHRASE.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="LSTPRIMP.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="LSTPRIMPC.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="LSTSDDP.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="LSTSDDPC.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="PILEPRIM.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="PILEPTR.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="PILEPTR.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="PILESDD.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

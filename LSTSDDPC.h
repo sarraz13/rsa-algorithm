@@ -1,0 +1,4 @@
+#ifndef LSTSDDPC_H_INCLUDED
+#define LSTSDDPC_H_INCLUDED
+#include "LSTPCHIF.h"
+#endif // LSTSDDPC_H_INCLUDED

@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1711470018 source:c:\users\semyz\onedrive\documents\1lnig\s2\asd2\projet\projetasd2\eltphrase.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ELTPRIMP.h"
+
+1711470018 c:\users\semyz\onedrive\documents\1lnig\s2\asd2\projet\projetasd2\eltprimp.h
+	"ELTSDDP.h"
+
+1711470018 c:\users\semyz\onedrive\documents\1lnig\s2\asd2\projet\projetasd2\eltsddp.h
+	"ELTPHRASE.h"
+
+1711470018 c:\users\semyz\onedrive\documents\1lnig\s2\asd2\projet\projetasd2\eltphrase.h
+
+1711470018 source:c:\users\semyz\onedrive\documents\1lnig\s2\asd2\projet\projetasd2\lstphrase.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"LSTPRIMP.h"
+
+1711470018 c:\users\semyz\onedrive\documents\1lnig\s2\asd2\projet\projetasd2\lstprimp.h
+	"LSTSDDP.h"
+
+1711470018 c:\users\semyz\onedrive\documents\1lnig\s2\asd2\projet\projetasd2\lstsddp.h
+	"LSTPHRASE.h"
+
+1711470018 c:\users\semyz\onedrive\documents\1lnig\s2\asd2\projet\projetasd2\lstphrase.h
+	"ELTPRIMP.h"
+
+1713432107 source:c:\users\semyz\onedrive\documents\1lnig\s2\asd2\projet\projetasd2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	"LSTPRIMP.h"
+	"LSTPRIMPC.h"
+	"PILEPRIM.h"
+
+1712070676 source:c:\users\semyz\onedrive\documents\1lnig\s2\asd2\projet\projetasd2\eltpchif.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ELTPRIMPC.h"
+
+1711471490 c:\users\semyz\onedrive\documents\1lnig\s2\asd2\projet\projetasd2\eltprimpc.h
+	"ELTSDDPC.h"
+
+1711471490 c:\users\semyz\onedrive\documents\1lnig\s2\asd2\projet\projetasd2\eltsddpc.h
+	"ELTPCHIF.h"
+
+1711471490 c:\users\semyz\onedrive\documents\1lnig\s2\asd2\projet\projetasd2\eltpchif.h
+
+1711470647 source:c:\users\semyz\onedrive\documents\1lnig\s2\asd2\projet\projetasd2\lstpchif.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"LSTPRIMPC.h"
+
+1711471345 c:\users\semyz\onedrive\documents\1lnig\s2\asd2\projet\projetasd2\lstprimpc.h
+	"LSTSDDPC.h"
+
+1711471424 c:\users\semyz\onedrive\documents\1lnig\s2\asd2\projet\projetasd2\lstsddpc.h
+	"LSTPCHIF.h"
+
+1711471403 c:\users\semyz\onedrive\documents\1lnig\s2\asd2\projet\projetasd2\lstpchif.h
+	"ELTPRIMPC.h"
+
+1712069010 source:c:\users\semyz\onedrive\documents\1lnig\s2\asd2\projet\projetasd2\eltcle.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ELTPRIMCL.h"
+
+1711471873 c:\users\semyz\onedrive\documents\1lnig\s2\asd2\projet\projetasd2\eltprimcl.h
+	"ELTSDDCL.h"
+
+1711471873 c:\users\semyz\onedrive\documents\1lnig\s2\asd2\projet\projetasd2\eltsddcl.h
+	"ELTCLE.h"
+
+1711471873 c:\users\semyz\onedrive\documents\1lnig\s2\asd2\projet\projetasd2\eltcle.h
+
+1711471994 source:c:\users\semyz\onedrive\documents\1lnig\s2\asd2\projet\projetasd2\pileptr.c
+	<stdlib.h>
+	<stdio.h>
+	"PILEPRIM.h"
+
+1711471994 c:\users\semyz\onedrive\documents\1lnig\s2\asd2\projet\projetasd2\pileprim.h
+	"PILESDD.h"
+
+1711471994 c:\users\semyz\onedrive\documents\1lnig\s2\asd2\projet\projetasd2\pilesdd.h
+	"PILEPTR.h"
+
+1712944801 c:\users\semyz\onedrive\documents\1lnig\s2\asd2\projet\projetasd2\pileptr.h
+	"ELTPRIMCL.h"
+
